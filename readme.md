@@ -1,6 +1,6 @@
 <hr>
 
-<img align="left" src="coldy.png" width="300" /> 
+<img align="left" src="coldy.png" width="400" /> 
 
 ```yaml
 reed@horsekey
