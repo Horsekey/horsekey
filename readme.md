@@ -5,10 +5,11 @@
 ```yaml
 reed@horsekey
 ———————————
-os: Windows 10 Enterprise x86-64
-host: MPG Z390 GAMING EDGE AC (MS-7B17)
-cpu: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz 3.60 GHz
-gpu: NVIDIA GeForce GTX 970 :crying_cat_face:
+os: Windows 11 Pro
+host: ROG STRIX B650E-I
+cpu: AMD Ryzen 9 7950X3D 16-Core Processor
+gpu: NVIDIA GeForce RTX 4080 SUPER
+ram: 64.0 GB
 ———————————
 blog: https://horsekey.fish
 discord: horsekey#1155
