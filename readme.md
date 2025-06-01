@@ -13,7 +13,7 @@ ram: 64.0 GB
 ———————————
 blog: https://horsekey.fish
 discord: horsekey#1155
-mail: reedhuskey@proton.me
+mail: reedhuskey[at]proton.me
 ———————————
 ```
 
